@@ -1,0 +1,24 @@
+PLINK v2.00a3.7LM 64-bit Intel (24 Oct 2022)
+Options in effect:
+  --export vcf
+  --haps /content/practical_data/reference_panel/ref.chr1.hap
+  --legend /content/practical_data/reference_panel/ref.chr1.legend 1
+  --out /content/results/ref.chr1
+
+Hostname: 8efa568f45d1
+Working directory: /content
+Start time: Wed Dec 21 17:36:27 2022
+
+Random number seed: 1671644187
+12985 MiB RAM detected; reserving 6492 MiB for main workspace.
+Using up to 2 compute threads.
+--haps + --legend: /content/results/ref.chr1-temporary.pgen +
+/content/results/ref.chr1-temporary.psam +
+/content/results/ref.chr1-temporary.pvar written.
+400 samples (0 females, 0 males, 400 ambiguous; 400 founders) loaded from
+/content/results/ref.chr1-temporary.psam.
+200 variants loaded from /content/results/ref.chr1-temporary.pvar.
+Note: No phenotype data present.
+--export vcf to /content/results/ref.chr1.vcf ... done.
+
+End time: Wed Dec 21 17:36:27 2022

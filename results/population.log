@@ -1,0 +1,21 @@
+PLINK v2.00a3.7LM 64-bit Intel (24 Oct 2022)
+Options in effect:
+  --export vcf
+  --out /content/results/population
+  --pfile /content/practical_data/population_genotype/population
+
+Hostname: 8efa568f45d1
+Working directory: /content
+Start time: Wed Dec 21 17:36:27 2022
+
+Random number seed: 1671644187
+12985 MiB RAM detected; reserving 6492 MiB for main workspace.
+Using up to 2 compute threads.
+810 samples (417 females, 393 males; 0 founders) loaded from
+/content/practical_data/population_genotype/population.psam.
+200 variants loaded from
+/content/practical_data/population_genotype/population.pvar.
+Note: No phenotype data present.
+--export vcf to /content/results/population.vcf ... done.
+
+End time: Wed Dec 21 17:36:27 2022

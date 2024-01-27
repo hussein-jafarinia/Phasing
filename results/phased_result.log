@@ -1,0 +1,12 @@
+beagle.22Jul22.46e.jar (version 5.4)
+Copyright (C) 2014-2022 Brian L. Browning
+Enter "java -jar beagle.22Jul22.46e.jar" to list command line argument
+Start time: 05:43 PM UTC on 21 Dec 2022
+
+Command line: java -Xmx3248m -jar beagle.22Jul22.46e.jar
+  ref=results/ref.chr1.vcf.gz
+  gt=results/population.vcf.gz
+  out=results/phased_result
+  nthreads=2
+
+No genetic map is specified: using 1 cM = 1 Mb
